@@ -5,9 +5,6 @@ CPVID-19具有极强的传染性，通过飞沫和密切接触传播是主要传
 ## 数据集下载
 本文的face mask classification dataset将RMFD数据集和MAFA数据集中佩戴口罩的人脸进行裁剪并筛选，大小归一化为224x224，将口罩类别分为合格口罩（OK-mask，主要为N95口罩与一次性医用口罩）包含1361张，和不合格口罩（NG-mask，主要包括海绵口罩、布口罩和围巾等）包含1880张，共包含3241张图像用于口罩分类，如图所示。
 
-下载地址：https://pan.baidu.com/s/1B6YEewrayrhQgvDG8CWFXw 提取码：ipdo
-
-或者：https://drive.google.com/file/d/1jyGHtcMxyKdJ-Xg1b78NBGtbq92WX2lu/view?usp=sharing
 
 ## 相关工作
 
@@ -27,9 +24,7 @@ CPVID - 19 with a strong infectivity, spread by droplets and close contact is th
 
 In this paper, the face mask classification dataset will RMFD data sets and MAFA data set by cutting face and screening of wearing masks, the size to one becomes 224 x224, masks categories can be divided into qualified masks (OK-mask, mainly for N95 masks and disposable surgical masks) contains 1361, and unqualified masks (NG-mask, mainly including the sponge masks, cloth masks and scarves, etc.) contains 1880, contains 3241 images are used to mask classification.
 
-Download link:https://pan.baidu.com/s/1B6YEewrayrhQgvDG8CWFXw Password：ipdo
 
-or：https://drive.google.com/file/d/1jyGHtcMxyKdJ-Xg1b78NBGtbq92WX2lu/view?usp=sharing
 
 ## Related Work
 
