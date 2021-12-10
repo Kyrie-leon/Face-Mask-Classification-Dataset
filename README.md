@@ -13,6 +13,7 @@ CPVID-19具有极强的传染性，通过飞沫和密切接触传播是主要传
 ## 相关工作
 
 论文地址
+
 Su, X., Gao, M., Ren, J. et al. Face mask detection and classification via deep transfer learning. Multimed Tools Appl (2021). https://doi.org/10.1007/s11042-021-11772-5
 
 
